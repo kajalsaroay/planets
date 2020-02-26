@@ -2,4 +2,4 @@ Cold and dry , but everything is my favorite color.
 The two moons may be a problem  
 But the mummy will appreciate the lack of humidity. 
 Venus could be considered as a base instead. 
-We added a different line in the other copy.
+We removed the conflict on this line
